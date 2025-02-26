@@ -1,6 +1,6 @@
 <a id="anchor"></a>
 # Почему вместо `Task.WhenAll` стоит использовать `Task.WaitAny`
-## Обзор методов `Task.WhenAll` и `Task.WaitAny` в `.NET`
+## Обзор методов `Task.WhenAll` и `Task.WaitAny` в `.NET` или `Task.WhenEach`
 
 [<img src="Cover20250226_002.jpg" width="300" />](https://vkvideo.ru/video614312645_456239069?t=7m18s)
 
